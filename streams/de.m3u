@@ -63,6 +63,8 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de@SD",Cira TV
 https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD",Comedy Central [Not 24/7]
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31302/index.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam",Da Vinci Asia Vietnam
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1 tvg-id="DasErste.de@SD",Das Erste (720p)
@@ -88,11 +90,15 @@ https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist
 #EXTINF:-1 tvg-id="DW.de@Arabic",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English",DW English (1080p)
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English",DW English (720p) [Geo-blocked]
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DW.de@English",DW English (720p)
 https://liveh12.vtvprime.vn/hls/DW/03.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (720p)
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@Russian",DW Russian (1080p)
@@ -173,6 +179,8 @@ https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="MTV.de@SD",MTV [Not 24/7]
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de@SD",München TV (1080p) [Not 24/7]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de@HD",Nachrichten 360 (1080p) [Geo-blocked]
@@ -267,6 +275,10 @@ https://s.ok54.de/oklu/livestream/playlist.m3u8
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 #EXTINF:-1 tvg-id="OneAdria.de@SD",One Adria (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+#EXTINF:-1 tvg-id="OstWest.de@SD",Ost West [Not 24/7]
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8
+#EXTINF:-1 tvg-id="OstWest24.de@SD",Ost West 24 (1080p)
+https://iptv.prosto.tv/ch237/index.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Not 24/7]
@@ -282,8 +294,6 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben (576p)
 #EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
 http://85.187.13.40:18000/ProSieben
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD",ProSieben Maxx (576p)
-http://79.232.88.203:9981/stream/channelid/1038721938
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="QVCZwei.de@SD",QVC 2 Germany (540p)
@@ -453,5 +463,33 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@HD",Sportdigital FUSSBALL HD (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
+#EXTINF:-1 tvg-id="NashKinomir.de@SD",Nash Kinomir (576p)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 tvg-id="TVRUS.de@SD",TVRUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a082
+#EXTINF:-1 tvg-id="TVRUSPlus.de@HD",TVRUS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://83.228.75.166:8000/play/a0aq
+#EXTINF:-1 tvg-id="SYFY.de@HD",SYFY HD (720p)
+http://rezofoot.tv/SYFY-HD/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (720p)
+http://41.223.30.230/3SAT/index.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de@SD",Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-id="OstWest.de@SD",Ost West (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-id="13thStreetUniversal.de@HD",13th Street Universal HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
+#EXTINF:-1 tvg-id="arte.de@SD",arte (720p)
+https://adpnetworkhd-cmd.github.io/iptv/Arte.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@HD",Disney Channel HD (720p)
+https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelDeutschland.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Fernsehen (720p)
+https://adpnetworkhd-cmd.github.io/iptv/NDR.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@HD",RTL Super HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/RTLSuperToggoHD.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8

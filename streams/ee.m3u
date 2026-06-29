@@ -19,6 +19,12 @@ https://sb.err.ee/live/etv.m3u8
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.ee@SD",ETV+ (720p)
 https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="FX.ee@SD",FX [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19216/index.m3u8
+#EXTINF:-1 tvg-id="FXLife.ee@SD",FX Life [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/9232/index.m3u8
+#EXTINF:-1 tvg-id="Kanal7.ee@SD",Kanal 7 [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/20079/index.m3u8
 #EXTINF:-1 tvg-id="KidZoneMax.ee@SD",KidZone Max (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://kidzonemax.lt
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
@@ -42,3 +48,12 @@ https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee@HD",Vantage Rock (720p) [Geo-blocked]
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee@HD",Vantage Classic (720p)
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="Duo3.ee@SD",Duo 3 (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/Duo3.m3u8
+#EXTINF:-1 tvg-id="Duo6.ee@SD",Duo 6 (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/Duo6.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ee@SD",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://ott.watch/XE5QWWBZ87/443/tracks-v2a1/mono.ts.m3u8?sid=598add99-25dc-4456-8107-ea87a02d8b94
